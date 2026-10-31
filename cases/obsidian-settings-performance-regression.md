@@ -30,15 +30,15 @@
 
 ### 1. Переключение разделов Settings
 
-| **Obsidian 1.13.4 — задержки** | **Obsidian 1.12.7 — контроль** |
+| Obsidian 1.13.4 — задержки | Obsidian 1.12.7 — контроль |
 |:---:|:---:|
-| ![Settings 1.13.4](./assets/obsidian/Setting%201.13.4.gif) | ![Settings 1.12.7](./assets/obsidian/Setting%201.12.7.gif) |
+| ![Settings 1.13.4](assets/obsidian/Setting%201.13.4.gif) | ![Settings 1.12.7](assets/obsidian/Setting%201.12.7.gif) |
 
 ### 2. Меню управления хранилищами (Vault)
 
-| **Obsidian 1.13.4 — задержки** | **Obsidian 1.12.7 — контроль** |
+| Obsidian 1.13.4 — задержки | Obsidian 1.12.7 — контроль |
 |:---:|:---:|
-| ![Vault 1.13.4](./assets/obsidian/vault%201.13.4.gif) | ![Vault 1.12.7](./assets/obsidian/vault%201.12.7.gif) |
+| ![Vault 1.13.4](assets/obsidian/vault%201.13.4.gif) | ![Vault 1.12.7](assets/obsidian/vault%201.12.7.gif) |
 
 
 **Наблюдение:** в Obsidian 1.13.4 элементы интерфейса реагируют с заметной задержкой. При аналогичных действиях в 1.12.7 отклик существенно быстрее.
