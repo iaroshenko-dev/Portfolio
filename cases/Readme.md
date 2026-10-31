@@ -8,5 +8,5 @@
 
 **Результат:** подготовлен и опубликован технический репорт на официальном форуме Obsidian. 
 
-- [Разбор диагностики и ограничений](cases/obsidian-settings-performance-regression.md)
+- [Разбор диагностики и ограничений](obsidian-settings-performance-regression.md)
 - [Оригинальный баг-репорт в Obsidian Forum](https://forum.obsidian.md/t/slow-navigation-in-settings/116740)
